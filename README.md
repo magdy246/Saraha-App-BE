@@ -1,4 +1,4 @@
-# <img src="./image/send.png" alt="icon" width="60" height="60"/> Saraha App - Backend
+# <img src="./image/send.png" alt="icon" width="50" height="50"/> Saraha App - Backend
 
 Welcome to the **Saraha App Backend**! This is the backend service for the Saraha application, which provides a platform for anonymous messaging.
 
