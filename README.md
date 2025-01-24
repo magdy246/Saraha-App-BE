@@ -1,4 +1,4 @@
-# Wave.gif Saraha App - Backend
+# https://github.com/MartinHeinz/MartinHeinz/ Saraha App - Backend
 
 Welcome to the **Saraha App Backend**! This is the backend service for the Saraha application, which provides a platform for anonymous messaging.
 
@@ -17,5 +17,3 @@ Welcome to the **Saraha App Backend**! This is the backend service for the Sarah
 - 🧹 **Mongoose**: ODM (Object Data Modeling) library for MongoDB and Node.js.  
 - 🛡️ **JSON Web Tokens (JWT)**: For secure user authentication.  
 - 🔑 **bcrypt.js**: For hashing and comparing user passwords.  
-
----
