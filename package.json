@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "engines": {
-    "node": "21.x"
+    "node": "22.x"
   },
   "scripts": {
     "dev": "node --watch index.js",
