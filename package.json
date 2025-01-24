@@ -1,0 +1,28 @@
+{
+  "name": "assignment-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "21.7.1"
+  },
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-async-handler": "^1.2.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.3",
+    "nodemailer": "^6.9.16"
+  }
+}
